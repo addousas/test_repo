@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+/api/node_modules/
+/mobile/node_modules/
+
+# Production build artifacts
+/dist
+/api/dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Other
+.DS_Store
+.env
